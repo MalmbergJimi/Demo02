@@ -10,6 +10,7 @@ namespace FistTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello GitHub! I'am your master.");
         }
     }
 }
